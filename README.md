@@ -99,7 +99,7 @@ Program akan menghitung perubahan koordinat, jarak antara dua titik, dan titik t
 ##Tabel hasil tiga test case tugas utama##
 
 | Kasus | A | B | Jarak | Titik Tengah |
-|:-----:|:---:|:---:|:-----:|:------------:|
+---
 | 1 | (0, 0) | (3, 4) | 5.00 | (1.50, 2.00) |
 | 2 | (-2, 1) | (4, 1) | 6.00 | (1.00, 1.00) |
 | 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.50, 1.00) |
