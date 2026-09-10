@@ -4,6 +4,7 @@
 **Nama:** Maulyditha Revania Aprilliyanti  
 **NIM:** 2225250100
 **Kelas:** 3A
+**Dosen:** Dr. Aan Hendrayana, S.Si., M.Pd.
 
 ## Tujuan Repositori
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Algoritma dan Pemrograman pada Pertemuan 02. Tujuan dari praktikum ini adalah memahami dasar variabel, tipe data, operator aritmatika, formatting f-string, serta manajemen input/output di Python.
