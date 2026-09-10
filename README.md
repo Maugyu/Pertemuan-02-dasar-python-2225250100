@@ -96,6 +96,14 @@ y titik B: 6
 
 Program akan menghitung perubahan koordinat, jarak antara dua titik, dan titik tengah.
 
+##Tabel hasil tiga test case tugas utama##
+
+| Kasus | A | B | Jarak | Titik Tengah |
+|:-----:|:---:|:---:|:-----:|:------------:|
+| 1 | (0, 0) | (3, 4) | 5.00 | (1.50, 2.00) |
+| 2 | (-2, 1) | (4, 1) | 6.00 | (1.00, 1.00) |
+| 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.50, 1.00) |
+
 ## Refleksi
 Konsep yang paling saya pahami adalah penggunaan variabel, input, dan operasi aritmatika dalam Python karena saya dapat langsung menerapkannya pada latihan biodata, persegi panjang, konversi suhu, dan nilai akhir.
 Kesalahan yang saya temukan adalah kesalahan saat menjalankan program dan mengatur repository Git, terutama ketika git init dilakukan pada folder yang kurang tepat. Saya memperbaikinya dengan mengecek kembali lokasi folder proyek sebelum menjalankan perintah Git.
