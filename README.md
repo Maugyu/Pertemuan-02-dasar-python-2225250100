@@ -97,7 +97,9 @@ y titik B: 6
 Program akan menghitung perubahan koordinat, jarak antara dua titik, dan titik tengah.
 
 ## Refleksi
-Dari tugas ini, saya belajar dasar-dasar pemrograman Python seperti penggunaan `input()`, tipe data `int` dan `float`, operasi aritmatika, konstanta, serta penggunaan `f-string` untuk menampilkan hasil. Saya juga menjadi lebih memahami bagaimana membuat program sederhana berdasarkan masalah matematika dan menguji program menggunakan beberapa data masukan. Dari kelima program tersebut, saya belajar bahwa penulisan kode yang rapi dan pengujian dengan beberapa kondisi penting untuk memastikan program dapat berjalan dengan benar.
+Konsep yang paling saya pahami adalah penggunaan variabel, input, dan operasi aritmatika dalam Python karena saya dapat langsung menerapkannya pada latihan biodata, persegi panjang, konversi suhu, dan nilai akhir.
+Kesalahan yang saya temukan adalah kesalahan saat menjalankan program dan mengatur repository Git, terutama ketika git init dilakukan pada folder yang kurang tepat. Saya memperbaikinya dengan mengecek kembali lokasi folder proyek sebelum menjalankan perintah Git.
+Pada pertemuan berikutnya saya ingin lebih memahami penggunaan Git dan GitHub, terutama cara melakukan commit, push, serta mengelola repository dengan lebih baik.
 
 ## Sumber yang Digunakan
 1. Modul/bahan ajar mata kuliah Pemrograman Komputer.
